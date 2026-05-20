@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.christin123456.alltagshilfe",
+    "sha256_cert_fingerprints": [
+      "6A:B0:D4:8A:D7:BC:C2:00:E5:84:3E:94:DF:09:2B:93:8A:D5:F0:C2:B4:79:B6:BA:84:27:EA:53:9B:AE:06:C8"
+    ]
+  }
+}]
